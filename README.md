@@ -6,11 +6,9 @@
 <br/>
 <div align="center">
  
- 🔭 I'm currently working in ****
  
  🌱 I'm currently learning **Mobile Development**
 
-💬 Ask me about ****
  </div>
  
 <div align="center"> 
@@ -26,7 +24,7 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,c,react,node,express,html,css,javascript,tailwind,websockets,git,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=java,c,react,nodejs,express,html,css,javascript,tailwind,git,github,vscode,linux" />
 </div>
 <hr/>
 
