@@ -41,3 +41,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambashivarao-Boyina&theme=merko" alt="Sambashivarao Boyina's github activity graph"/>
 <hr/>
 <br/>
+
+[![An image of @sambashivaraoboyina's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sambashivaraoboyina)](https://holopin.io/@sambashivaraoboyina)
