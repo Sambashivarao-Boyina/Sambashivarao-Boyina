@@ -38,7 +38,7 @@
 </div>
 <hr/>
 
-## GSSOC(24) Badges 🪶
+<h2 align="center"> GSSOC Badges </h2> 🪶
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;" align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
