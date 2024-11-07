@@ -40,7 +40,7 @@
 
 ## GSSOC(24) Badges 🪶
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;" align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
     <img src="https://gssoc.girlscript.tech/badges/postman.png" width="100" height="100" alt="Postman Badge"/>
     <img src="https://gssoc.girlscript.tech/badges/1.png" width="100" height="100" alt="Badge 1"/>
