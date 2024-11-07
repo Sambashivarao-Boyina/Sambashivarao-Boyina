@@ -38,6 +38,21 @@
 </div>
 <hr/>
 
+## GSSOC(24) Badges 🪶
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd">
+    <img src="https://gssoc.girlscript.tech/badges/postman.png" width="100" height="100" alt="Postman Badge"/>
+    <img src="https://gssoc.girlscript.tech/badges/1.png" width="100" height="100" alt="Badge 1"/>
+    <img src="https://gssoc.girlscript.tech/badges/2.png" width="100" height="100" alt="Badge 2"/>
+    <img src="https://gssoc.girlscript.tech/badges/3.png" width="100" height="100" alt="Badge 3"/>
+    <img src="https://gssoc.girlscript.tech/badges/4.png" width="100" height="100" alt="Badge 4"/>
+    <img src="https://gssoc.girlscript.tech/badges/5.png" width="100" height="100" alt="Badge 5"/>
+  </a>
+</div>
+
+<hr/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambashivarao-Boyina&theme=merko" alt="Sambashivarao Boyina's github activity graph"/>
 <hr/>
 <br/>
